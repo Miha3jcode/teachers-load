@@ -1,0 +1,22 @@
+{
+  "name": "teachers-load",
+  "version": "1.0.0",
+  "description": "And here we are!",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Miha3jcode/teachers-load.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Miha3jcode/teachers-load/issues"
+  },
+  "homepage": "https://github.com/Miha3jcode/teachers-load#readme",
+  "dependencies": {
+    "electron": "^7.1.0"
+  }
+}
