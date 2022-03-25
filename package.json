@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Miha3jcode/teachers-load#readme",
   "dependencies": {
-    "electron": "^7.1.0"
+    "electron": "^13.6.6"
   }
 }
